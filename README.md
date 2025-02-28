@@ -59,17 +59,7 @@ The Amazon reviews full score dataset is constructed by randomly taking 6,00,000
     streamlit run review_analyzer.py
     ```
 
-## Screenshots
 
-![](screenshots/wordcloud.png)
-
-### Streamlit App:
-#### Single Reviews:
-![](screenshots/single-review.jpg)
-
-#### Product URL Reviews:
-![](screenshots/url-review-1.jpg)
-![](screenshots/url-review-2.jpg)
 
 #### Multi Review:
 ![](screenshots/multi-review-1.jpg)
