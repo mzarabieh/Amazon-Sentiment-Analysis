@@ -60,7 +60,3 @@ The Amazon reviews full score dataset is constructed by randomly taking 6,00,000
     ```
 
 
-
-#### Multi Review:
-![](screenshots/multi-review-1.jpg)
-![](screenshots/multi-review-2.jpg)
